@@ -5,3 +5,6 @@ var greeting = "Hello, playground"
 //Add some code
 
 print("Smth strange")
+
+//mb comment here
+print("Seems like worked")
